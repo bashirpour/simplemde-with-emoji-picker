@@ -8,4 +8,7 @@
 
 ### Usage:
 
-use this like `demo` file
+Use like `demo` file.
+
+--------
+It will be updated soon ...
